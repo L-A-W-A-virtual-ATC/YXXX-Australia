@@ -1,0 +1,45 @@
+
+
+
+[POSITIONS]
+
+ML-IND_FSS:Brisbane Radio (Indian):122.400:ID:O:ML-IND:FSS::::
+ML-INE_FSS:Brisbane Radio (Indian East):123.650:IE:O:ML-INE:FSS::::
+BN-TRT_CTR:Brisbane Control (Territory):133.200:TR:C:BN-TRT:CTR::::
+BN-KIY_CTR:Brisbane Control (Kimberley)*:133.400:KI:C:BN-KIY:CTR::::
+BN-ARA_CTR:Brisbane Control (Arafura):133.700:AA:C:BN-ARA:CTR::::
+BN-ARL_CTR:Brisbane Control (Armidale):130.900:AL:C:BN-ARL:CTR::::
+BN-BAR_CTR:Brisbane Control (Barra):123.800:BR:C:BN-BAR:CTR::::
+BN-BUR_CTR:Brisbane Control (Burnett):123.000:BU:C:BN-BUR:CTR::::
+BN-CVN_CTR:Brisbane Control (Carnavon):133.800:CN:C:BN-CVN:CTR::::
+BN-CNK_CTR:Brisbane Control (Cessnock):123.400:CK:C:BN-CNK:CTR::::
+BN-DOS_CTR:Brisbane Control (Downs):135.600:DS:C:BN-DOS:CTR::::
+BN-GOL_CTR:Brisbane Control (Gold Coast):130.400:GL:C:BN-GOL:CTR::::
+BN-INL_CTR:Brisbane Control (Inverell):134.200:IL:C:BN-INL:CTR::::
+BN-ISA_CTR:Brisbane Control (Isa):125.200:IA:C:BN-ISA:CTR::::
+BN-KEN_CTR:Brisbane Control (Kennedy):120.150:KN:C:BN-KEN:CTR::::
+BN-KPL_CTR:Brisbane Control (Keppel):125.900:KL:C:BN-KPL:CTR::::
+BN-KIY_CTR:Brisbane Control (Kimberly):133.400:KY:C:BN-KIY:CTR::::
+BN-MLD_CTR:Brisbane Control (Maitland):132.350:MD:C:BN-MLD:CTR::::
+BN-MNN_CTR:Brisbane Control (Manning):130.100:MN:C:BN-MNN:CTR::::
+BN-MDE_CTR:Brisbane Control (Mudgee):133.000:ME:C:BN-MDE:CTR::::
+BN-NSA_CTR:Brisbane Control (Noosa):124.100:NA:C:BN-NSA:CTR::::
+BN-OCN_CTR:Brisbane Control (Ocean):128.600:ON:C:BN-OCN:CTR::::
+BN-SDY_CTR:Brisbane Control (Straddy):134.300:SY:C:BN-SDY:CTR::::
+BN-STR_CTR:Brisbane Control (Sturt):134.400:SR:C:BN-STR:CTR::::
+BN-SWY_CTR:Brisbane Control (Swampy):133.200:SY:C:BN-SWY:CTR::::
+BN-TBP_CTR:Brisbane Control (Tabletop):120.550:TP:C:BN-TBP:CTR::::
+BN_WEG_CTR:Brisbane Control (Warrego):132.450:WG:C:BN_WEG:CTR::::
+BN-TSN_FSS#:Brisbane Radio:124.650:TSN:O:BN-TSN:FSS:-:-:-:-
+BN-COL_FSS#:Brisbane Radio:133.150:COL:O:BN-COL:FSS:-:-:-:-
+BN-FLD_FSS#:Brisbane Radio:132.850:FLD:O:BN-FLD:FSS:-:-:-:-
+BN-HWE_FSS#:Brisbane Radio:124.950:HWE:O:BN-HWE:FSS:-:-:-:-
+BN-INS_FSS#:Brisbane Radio:129.250:INS:O:BN-INS:FSS:-:-:-:-
+
+
+
+[AIRSPACE]
+
+
+[Runway]
+
