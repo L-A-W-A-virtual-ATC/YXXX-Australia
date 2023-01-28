@@ -1,8 +1,8 @@
 DisplayTypeName:
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:C:\Users\cedri\OneDrive\Dokumente\EuroScope\indonesia-sectorfile\WXXX.sct
+SECTORTITLE:WXXX.sct
 Airports:WAAA:name
 Airports:WABA:name
 Airports:WABB:name
