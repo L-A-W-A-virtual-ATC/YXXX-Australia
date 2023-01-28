@@ -1,5 +1,9 @@
 # YXXX-Australia
-L.A.W.A. Sector file Australia containing the sectors YBBB and YMMM
+This is the EuroScope sector file for YBBB and YMMM and all their airports.
 
 ## Copyright and License
-This sector and all the files are licensed under GNU GENERAL PUBLIC LICENSE 3.0. Details see [LICENSE](LICENSE).
+This sector and all its files were created by L.A.W.A. - Legends- And Windsack ATC and are licensed under the [GNU GENERAL PUBLIC LICENSE 3.0](LICENSE).
+
+## Contribute
+If you like to contribute to this sector file to to the [github repository](https://github.com/L-A-W-A-virtual-ATC/SECTORNAME).
+There you can either file an issue or you fork the repository and send a pull request once you implemented your modifications.
