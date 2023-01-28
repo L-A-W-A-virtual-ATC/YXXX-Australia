@@ -36,10 +36,6 @@ BN-FLD_FSS#:Brisbane Radio:132.850:FLD:O:BN-FLD:FSS:-:-:-:-
 BN-HWE_FSS#:Brisbane Radio:124.950:HWE:O:BN-HWE:FSS:-:-:-:-
 BN-INS_FSS#:Brisbane Radio:129.250:INS:O:BN-INS:FSS:-:-:-:-
 
-[FREETEXT]
-
-
-S27.23.09.89:E153.07.20.78:YBBN:28
 
 [AIRSPACE]
 
@@ -200,3 +196,116 @@ S027.23.01.285:E153.07.18.963:YBBN Parking Positions:22B
 S027.23.25.942:E153.07.11.392:YBBN Parking Positions:64A
 S027.23.18.192:E153.07.11.743:YBBN Parking Positions:44A
 S027.22.25.067:E153.07.24.085:YBBN Parking Positions:G24
+
+S027.24.58.211:E153.05.57.236:YBBN Grounddesignators:J			
+S027.24.50.096:E153.05.54.238:YBBN Grounddesignators:C13			
+S027.24.35.779:E153.06.11.146:YBBN Grounddesignators:C12			
+S027.24.47.041:E153.06.04.155:YBBN Grounddesignators:L			
+S027.24.42.084:E153.05.58.791:YBBN Grounddesignators:P			
+S027.24.33.883:E153.06.34.336:YBBN Grounddesignators:L			
+S027.24.20.479:E153.06.43.488:YBBN Grounddesignators:C10			
+S027.24.07.363:E153.06.51.172:YBBN Grounddesignators:C9			
+S027.24.09.403:E153.06.55.631:YBBN Grounddesignators:B9			
+S027.24.11.638:E153.07.01.870:YBBN Grounddesignators:A9			
+S027.24.03.598:E153.06.56.155:YBBN Grounddesignators:B			
+S027.24.05.504:E153.07.00.037:YBBN Grounddesignators:A			
+S027.24.00.301:E153.07.00.053:YBBN Grounddesignators:B8			
+S027.24.25.290:E153.06.32.491:YBBN Grounddesignators:C(Start up)	
+S027.24.21.079:E153.06.38.901:YBBN Grounddesignators:D(Start up)	
+S027.24.16.623:E153.06.41.854:YBBN Grounddesignators:E(Start up)	
+S027.24.09.321:E153.06.46.209:YBBN Grounddesignators:F(Start up)	
+S027.24.05.204:E153.06.50.950:YBBN Grounddesignators:G(Start up)	
+S027.24.02.059:E153.06.52.852:YBBN Grounddesignators:H(Start up)	
+S027.23.53.240:E153.06.55.384:YBBN Grounddesignators:J(Start up)	
+S027.23.42.374:E153.07.10.793:YBBN Grounddesignators:B7			
+S027.23.44.566:E153.07.15.595:YBBN Grounddesignators:A7			
+S027.23.33.906:E153.07.13.118:YBBN Grounddesignators:B			
+S027.23.35.845:E153.07.16.987:YBBN Grounddesignators:A			
+S027.23.24.845:E153.07.14.446:YBBN Grounddesignators:C6			
+S027.23.28.771:E153.07.18.557:YBBN Grounddesignators:B6			
+S027.23.25.408:E153.07.26.395:YBBN Grounddesignators:A6			
+S027.23.20.752:E153.07.27.772:YBBN Grounddesignators:A5S			
+S027.23.20.109:E153.07.18.926:YBBN Grounddesignators:C5			
+S027.23.16.537:E153.07.20.869:YBBN Grounddesignators:C4			
+S027.23.07.802:E153.07.25.706:YBBN Grounddesignators:C3			
+S027.23.04.235:E153.07.27.616:YBBN Grounddesignators:C2			
+S027.22.58.284:E153.07.29.488:YBBN Grounddesignators:C1			
+S027.23.15.202:E153.07.26.398:YBBN Grounddesignators:B5			
+S027.23.11.912:E153.07.34.009:YBBN Grounddesignators:A5			
+S027.23.09.408:E153.07.32.116:YBBN Grounddesignators:A			
+S027.23.07.343:E153.07.35.554:YBBN Grounddesignators:A4S			
+S027.23.08.592:E153.07.27.574:YBBN Grounddesignators:B			
+S027.23.01.608:E153.07.34.206:YBBN Grounddesignators:B4			
+S027.23.03.793:E153.07.38.994:YBBN Grounddesignators:A4			
+S027.22.47.973:E153.07.41.923:YBBN Grounddesignators:B3			
+S027.22.50.133:E153.07.46.657:YBBN Grounddesignators:A3			
+S027.22.53.746:E153.07.36.093:YBBN Grounddesignators:B			
+S027.22.55.593:E153.07.40.019:YBBN Grounddesignators:A			
+S027.22.39.676:E153.07.44.120:YBBN Grounddesignators:B			
+S027.22.41.559:E153.07.48.033:YBBN Grounddesignators:A			
+S027.22.27.079:E153.07.43.600:YBBN Grounddesignators:F2			
+S027.22.30.815:E153.07.51.815:YBBN Grounddesignators:B2			
+S027.22.23.562:E153.07.45.620:YBBN Grounddesignators:F1			
+S027.22.21.250:E153.07.49.664:YBBN Grounddesignators:G1			
+S027.22.21.887:E153.07.56.603:YBBN Grounddesignators:B1			
+S027.22.25.613:E153.08.02.923:YBBN Grounddesignators:A1			
+S027.22.24.913:E153.07.52.566:YBBN Grounddesignators:B			
+S027.22.27.426:E153.07.56.119:YBBN Grounddesignators:A			
+S027.22.12.055:E153.07.30.278:YBBN Grounddesignators:F4			
+S027.22.14.032:E153.07.34.124:YBBN Grounddesignators:F3			
+S027.21.58.566:E153.07.43.650:YBBN Grounddesignators:E4			
+S027.22.01.840:E153.07.46.123:YBBN Grounddesignators:E3			
+S027.22.06.643:E153.07.50.051:YBBN Grounddesignators:E2			
+S027.22.14.825:E153.07.56.290:YBBN Grounddesignators:E1			
+S027.22.16.638:E153.07.57.303:YBBN Grounddesignators:D			
+S027.22.11.625:E153.07.51.072:YBBN Grounddesignators:E			
+S027.22.05.382:E153.07.46.254:YBBN Grounddesignators:E			
+S027.21.52.194:E153.07.46.469:YBBN Grounddesignators:D3			
+S027.22.04.356:E153.07.53.787:YBBN Grounddesignators:D2			
+S027.22.12.221:E153.08.00.488:YBBN Grounddesignators:D1			
+S027.22.02.262:E153.07.49.243:YBBN Grounddesignators:D			
+S027.22.09.552:E153.07.54.854:YBBN Grounddesignators:D			
+S027.22.54.424:E153.07.55.921:YBBN Grounddesignators:H3			
+S027.23.04.293:E153.07.58.907:YBBN Grounddesignators:H2			
+S027.23.07.436:E153.08.02.076:YBBN Grounddesignators:H1			
+S027.23.04.828:E153.08.06.920:YBBN Grounddesignators:H2N			
+S027.23.11.435:E153.08.03.128:YBBN Grounddesignators:H2S			
+S027.23.50.071:E153.07.27.683:YBBN Grounddesignators:M			
+S027.23.50.554:E153.07.37.605:YBBN Grounddesignators:M1			
+S027.23.56.514:E153.07.34.257:YBBN Grounddesignators:M2			
+S027.23.58.336:E153.07.28.769:YBBN Grounddesignators:M3			
+S027.22.44.123:E153.07.44.164:YBBN Grounddesignators:Z			
+S027.22.43.677:E153.07.38.110:YBBN Grounddesignators:Y1			
+S027.22.46.763:E153.07.36.348:YBBN Grounddesignators:W1			
+S027.22.46.458:E153.07.32.334:YBBN Grounddesignators:W			
+S027.22.43.709:E153.07.30.197:YBBN Grounddesignators:W2			
+S027.22.40.881:E153.07.31.830:YBBN Grounddesignators:Y2			
+S027.22.37.125:E153.07.23.713:YBBN Grounddesignators:Y3			
+S027.22.29.232:E153.07.11.984:YBBN Grounddesignators:Z			
+S027.22.33.170:E153.07.09.722:YBBN Grounddesignators:Y			
+S027.21.57.167:E153.07.12.501:YBBN Grounddesignators:S			
+S027.22.44.453:E153.06.45.382:YBBN Grounddesignators:S			
+S027.22.31.043:E153.06.50.285:YBBN Grounddesignators:S10			
+S027.22.23.496:E153.06.52.370:YBBN Grounddesignators:T			
+S027.22.13.919:E153.06.59.251:YBBN Grounddesignators:S7			
+S027.22.08.914:E153.06.57.733:YBBN Grounddesignators:T7			
+S027.22.15.569:E153.06.53.327:YBBN Grounddesignators:T8			
+S027.22.24.094:E153.06.48.601:YBBN Grounddesignators:T9			
+S027.22.28.898:E153.06.44.940:YBBN Grounddesignators:T10			
+S027.22.43.480:E153.06.41.627:YBBN Grounddesignators:S12			
+S027.22.37.467:E153.06.41.181:YBBN Grounddesignators:T11			
+S027.22.41.841:E153.06.37.962:YBBN Grounddesignators:T12			
+S027.23.00.644:E153.06.33.706:YBBN Grounddesignators:S13			
+S027.23.04.035:E153.06.31.821:YBBN Grounddesignators:S14			
+S027.22.58.858:E153.06.29.508:YBBN Grounddesignators:T13			
+S027.23.02.155:E153.06.27.686:YBBN Grounddesignators:T14			
+S027.21.58.352:E153.07.08.061:YBBN Grounddesignators:S5			
+S027.22.00.587:E153.07.02.615:YBBN Grounddesignators:T6			
+S027.21.56.325:E153.07.03.416:YBBN Grounddesignators:T5			
+S027.21.45.398:E153.07.15.741:YBBN Grounddesignators:S3			
+S027.21.43.569:E153.07.11.520:YBBN Grounddesignators:T3			
+S027.21.48.089:E153.07.09.209:YBBN Grounddesignators:T4			
+S027.21.33.310:E153.07.22.989:YBBN Grounddesignators:S2			
+S027.21.30.421:E153.07.25.778:YBBN Grounddesignators:S1			
+S027.21.29.123:E153.07.19.518:YBBN Grounddesignators:T2			
+S027.21.25.156:E153.07.21.647:YBBN Grounddesignators:T1	
