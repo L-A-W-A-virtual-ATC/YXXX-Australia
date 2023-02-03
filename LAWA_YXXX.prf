@@ -2,7 +2,7 @@ LastSession	connecttype	0
 LastSession	rating	6
 LastSession	server	92.205.131.19
 LastSession	tovatsim	0
-LastSession	range	100
+LastSession	range	600
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 Settings	alias	\..\Aliases.txt
@@ -63,3 +63,5 @@ Sounds	Sound17	C:\Program Files (x86)\EuroScope\Sounds\pointout.wav
 Sounds	Sound18	\..\COMMON\SOUNDS\airplane-fly-over-02a.wav
 Settings	sector	\YBBB.sct
 RecentFiles	Recent1	\ASR\YBBB_CTR.asr
+LastSession	callsign	YBBN_CTR
+LastSession	facility	6
