@@ -600,6 +600,58 @@ Free Text:YBBN Parking Positions\P4A:freetext
 Free Text:YBBN Parking Positions\P4B:freetext
 Free Text:YBBN Parking Positions\P4C:freetext
 Free Text:YBBN Parking Positions\P7:freetext
+Free Text:YBCG Grounddesignators\A:freetext
+Free Text:YBCG Grounddesignators\A:freetext
+Free Text:YBCG Grounddesignators\B:freetext
+Free Text:YBCG Grounddesignators\C:freetext
+Free Text:YBCG Grounddesignators\C:freetext
+Free Text:YBCG Grounddesignators\C:freetext
+Free Text:YBCG Grounddesignators\C:freetext
+Free Text:YBCG Grounddesignators\C:freetext
+Free Text:YBCG Grounddesignators\C:freetext
+Free Text:YBCG Grounddesignators\C:freetext
+Free Text:YBCG Grounddesignators\C:freetext
+Free Text:YBCG Grounddesignators\D:freetext
+Free Text:YBCG Grounddesignators\D:freetext
+Free Text:YBCG Grounddesignators\E:freetext
+Free Text:YBCG Grounddesignators\E:freetext
+Free Text:YBCG Grounddesignators\E:freetext
+Free Text:YBCG Grounddesignators\F:freetext
+Free Text:YBCG Grounddesignators\G:freetext
+Free Text:YBCG Grounddesignators\G:freetext
+Free Text:YBCG Grounddesignators\H:freetext
+Free Text:YBCG Grounddesignators\K:freetext
+Free Text:YBCG Parking Positions\1:freetext
+Free Text:YBCG Parking Positions\10:freetext
+Free Text:YBCG Parking Positions\10L:freetext
+Free Text:YBCG Parking Positions\10R:freetext
+Free Text:YBCG Parking Positions\1L:freetext
+Free Text:YBCG Parking Positions\1R:freetext
+Free Text:YBCG Parking Positions\2:freetext
+Free Text:YBCG Parking Positions\3:freetext
+Free Text:YBCG Parking Positions\30:freetext
+Free Text:YBCG Parking Positions\30L:freetext
+Free Text:YBCG Parking Positions\30R:freetext
+Free Text:YBCG Parking Positions\3L:freetext
+Free Text:YBCG Parking Positions\3R:freetext
+Free Text:YBCG Parking Positions\4:freetext
+Free Text:YBCG Parking Positions\4L:freetext
+Free Text:YBCG Parking Positions\4R:freetext
+Free Text:YBCG Parking Positions\5:freetext
+Free Text:YBCG Parking Positions\5L:freetext
+Free Text:YBCG Parking Positions\5R:freetext
+Free Text:YBCG Parking Positions\6:freetext
+Free Text:YBCG Parking Positions\6L:freetext
+Free Text:YBCG Parking Positions\6R:freetext
+Free Text:YBCG Parking Positions\7:freetext
+Free Text:YBCG Parking Positions\7L:freetext
+Free Text:YBCG Parking Positions\7R:freetext
+Free Text:YBCG Parking Positions\8:freetext
+Free Text:YBCG Parking Positions\8L:freetext
+Free Text:YBCG Parking Positions\8R:freetext
+Free Text:YBCG Parking Positions\9:freetext
+Free Text:YBCG Parking Positions\9L:freetext
+Free Text:YBCG Parking Positions\9R:freetext
 Free Text:YSSY Grounddesignators\A  :freetext
 Free Text:YSSY Grounddesignators\A  :freetext
 Free Text:YSSY Grounddesignators\A  :freetext
@@ -834,6 +886,8 @@ Free Text:YSSY Parking Positions\F7:freetext
 Free Text:YSSY Parking Positions\F8:freetext
 Free Text:YSSY Parking Positions\F9:freetext
 Geo:GEO:
+Geo:YBBN Taxiway:
+Geo:YBCG Taxiway:
 Regions:Apron:polygon
 Regions:Background:polygon
 Regions:Building:polygon
@@ -841,6 +895,10 @@ Regions:Grass:polygon
 Regions:Grass:polygon
 Regions:Grass:polygon
 Regions:Runway:polygon
+Regions:YBCG Apron:polygon
+Regions:YBCG Background:polygon
+Regions:YBCG Building:polygon
+Regions:YBCG Grass:polygon
 Regions:YSSN Apron:polygon
 Regions:YSSN Building:polygon
 Runways:YBBN Brisbane 01L-19R:centerline
@@ -875,6 +933,38 @@ Runways:YBBN Brisbane 01R-19L:extended centerline 2 right base
 Runways:YBBN Brisbane 01R-19L:extended centerline 2 right ticks
 Runways:YBBN Brisbane 01R-19L:extended centerline 2 right vectoring
 Runways:YBBN Brisbane 01R-19L:name
+Runways:YBCG Gold Coast 14-32:centerline
+Runways:YBCG Gold Coast 14-32:extended centerline 1
+Runways:YBCG Gold Coast 14-32:extended centerline 1 left base
+Runways:YBCG Gold Coast 14-32:extended centerline 1 left ticks
+Runways:YBCG Gold Coast 14-32:extended centerline 1 left vectoring
+Runways:YBCG Gold Coast 14-32:extended centerline 1 right base
+Runways:YBCG Gold Coast 14-32:extended centerline 1 right ticks
+Runways:YBCG Gold Coast 14-32:extended centerline 1 right vectoring
+Runways:YBCG Gold Coast 14-32:extended centerline 2
+Runways:YBCG Gold Coast 14-32:extended centerline 2 left base
+Runways:YBCG Gold Coast 14-32:extended centerline 2 left ticks
+Runways:YBCG Gold Coast 14-32:extended centerline 2 left vectoring
+Runways:YBCG Gold Coast 14-32:extended centerline 2 right base
+Runways:YBCG Gold Coast 14-32:extended centerline 2 right ticks
+Runways:YBCG Gold Coast 14-32:extended centerline 2 right vectoring
+Runways:YBCG Gold Coast 14-32:name
+Runways:YBCG Gold Coast 17-35:centerline
+Runways:YBCG Gold Coast 17-35:extended centerline 1
+Runways:YBCG Gold Coast 17-35:extended centerline 1 left base
+Runways:YBCG Gold Coast 17-35:extended centerline 1 left ticks
+Runways:YBCG Gold Coast 17-35:extended centerline 1 left vectoring
+Runways:YBCG Gold Coast 17-35:extended centerline 1 right base
+Runways:YBCG Gold Coast 17-35:extended centerline 1 right ticks
+Runways:YBCG Gold Coast 17-35:extended centerline 1 right vectoring
+Runways:YBCG Gold Coast 17-35:extended centerline 2
+Runways:YBCG Gold Coast 17-35:extended centerline 2 left base
+Runways:YBCG Gold Coast 17-35:extended centerline 2 left ticks
+Runways:YBCG Gold Coast 17-35:extended centerline 2 left vectoring
+Runways:YBCG Gold Coast 17-35:extended centerline 2 right base
+Runways:YBCG Gold Coast 17-35:extended centerline 2 right ticks
+Runways:YBCG Gold Coast 17-35:extended centerline 2 right vectoring
+Runways:YBCG Gold Coast 17-35:name
 Runways:YSSY Sydney 07-25:centerline
 Runways:YSSY Sydney 07-25:extended centerline 1
 Runways:YSSY Sydney 07-25:extended centerline 1 left base
@@ -923,72 +1013,11 @@ Runways:YSSY Sydney 16R-34L:extended centerline 2 right base
 Runways:YSSY Sydney 16R-34L:extended centerline 2 right ticks
 Runways:YSSY Sydney 16R-34L:extended centerline 2 right vectoring
 Runways:YSSY Sydney 16R-34L:name
-VORs:AMB:symbol
 VORs:ARG:symbol
-VORs:ARM:symbol
-VORs:BDV:symbol
-VORs:BGT:symbol
-VORs:BML:symbol
-VORs:BNA:symbol
-VORs:BOU:symbol
-VORs:BRM:symbol
-VORs:BUD:symbol
-VORs:CCY:symbol
 VORs:CFS:symbol
 VORs:CIN:symbol
-VORs:CMU:symbol
-VORs:COE:symbol
-VORs:DAR:symbol
-VORs:DBY:symbol
-VORs:DYS:symbol
-VORs:EML:symbol
-VORs:GDH:symbol
-VORs:GFN:symbol
 VORs:GLA:symbol
-VORs:GTE:symbol
-VORs:HID:symbol
-VORs:HLC:symbol
-VORs:HOO:symbol
-VORs:HUG:symbol
-VORs:IAM:symbol
-VORs:IBA:symbol
-VORs:IBE:symbol
-VORs:IBN:symbol
-VORs:IBS:symbol
-VORs:ICG:symbol
-VORs:ICN:symbol
-VORs:ICS:symbol
-VORs:IDN:symbol
-VORs:IFL:symbol
-VORs:IOK:symbol
-VORs:ITL:symbol
-VORs:ITN:symbol
-VORs:ITW:symbol
-VORs:IVL:symbol
-VORs:IWM:symbol
-VORs:KOW:symbol
-VORs:LHI:symbol
-VORs:LHR:symbol
-VORs:LRE:symbol
-VORs:MDG:symbol
-VORs:MGD:symbol
-VORs:MOR:symbol
-VORs:NBR:symbol
-VORs:NTN:symbol
-VORs:PMQ:symbol
-VORs:QDI:symbol
-VORs:ROM:symbol
-VORs:SCO:symbol
-VORs:SGE:symbol
-VORs:SGR:symbol
-VORs:TDL:symbol
 VORs:TNK:symbol
-VORs:TVL:symbol
-VORs:WAV:symbol
-VORs:WDH:symbol
-VORs:WLG:symbol
-VORs:WLM:symbol
-VORs:WMD:symbol
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -1002,4 +1031,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-45.865323:86.824769:-5.695323:168.880002
+WINDOWAREA:-46.254722:87.353554:-6.084722:169.408787
