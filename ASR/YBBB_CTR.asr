@@ -602,7 +602,27 @@ Free Text:YBBN Parking Positions\P4C:freetext
 Free Text:YBBN Parking Positions\P7:freetext
 Free Text:YBCG Grounddesignators\A:freetext
 Free Text:YBCG Grounddesignators\A:freetext
+Free Text:YBCG Grounddesignators\A:freetext
+Free Text:YBCG Grounddesignators\A:freetext
+Free Text:YBCG Grounddesignators\A:freetext
+Free Text:YBCG Grounddesignators\A:freetext
+Free Text:YBCG Grounddesignators\A2:freetext
+Free Text:YBCG Grounddesignators\A4:freetext
+Free Text:YBCG Grounddesignators\A4:freetext
 Free Text:YBCG Grounddesignators\B:freetext
+Free Text:YBCG Grounddesignators\B:freetext
+Free Text:YBCG Grounddesignators\B:freetext
+Free Text:YBCG Grounddesignators\B:freetext
+Free Text:YBCG Grounddesignators\B:freetext
+Free Text:YBCG Grounddesignators\B:freetext
+Free Text:YBCG Grounddesignators\B:freetext
+Free Text:YBCG Grounddesignators\B:freetext
+Free Text:YBCG Grounddesignators\B:freetext
+Free Text:YBCG Grounddesignators\B:freetext
+Free Text:YBCG Grounddesignators\B2:freetext
+Free Text:YBCG Grounddesignators\B3:freetext
+Free Text:YBCG Grounddesignators\B4:freetext
+Free Text:YBCG Grounddesignators\B5:freetext
 Free Text:YBCG Grounddesignators\C:freetext
 Free Text:YBCG Grounddesignators\C:freetext
 Free Text:YBCG Grounddesignators\C:freetext
@@ -611,6 +631,17 @@ Free Text:YBCG Grounddesignators\C:freetext
 Free Text:YBCG Grounddesignators\C:freetext
 Free Text:YBCG Grounddesignators\C:freetext
 Free Text:YBCG Grounddesignators\C:freetext
+Free Text:YBCG Grounddesignators\C:freetext
+Free Text:YBCG Grounddesignators\C:freetext
+Free Text:YBCG Grounddesignators\C:freetext
+Free Text:YBCG Grounddesignators\C1:freetext
+Free Text:YBCG Grounddesignators\C2:freetext
+Free Text:YBCG Grounddesignators\D:freetext
+Free Text:YBCG Grounddesignators\D:freetext
+Free Text:YBCG Grounddesignators\D:freetext
+Free Text:YBCG Grounddesignators\D:freetext
+Free Text:YBCG Grounddesignators\D:freetext
+Free Text:YBCG Grounddesignators\D:freetext
 Free Text:YBCG Grounddesignators\D:freetext
 Free Text:YBCG Grounddesignators\D:freetext
 Free Text:YBCG Grounddesignators\E:freetext
@@ -619,39 +650,102 @@ Free Text:YBCG Grounddesignators\E:freetext
 Free Text:YBCG Grounddesignators\F:freetext
 Free Text:YBCG Grounddesignators\G:freetext
 Free Text:YBCG Grounddesignators\G:freetext
+Free Text:YBCG Grounddesignators\G:freetext
+Free Text:YBCG Grounddesignators\G:freetext
+Free Text:YBCG Grounddesignators\G:freetext
+Free Text:YBCG Grounddesignators\G:freetext
 Free Text:YBCG Grounddesignators\H:freetext
 Free Text:YBCG Grounddesignators\K:freetext
+Free Text:YBCG Grounddesignators\Y:freetext
+Free Text:YBCG Parking Positions:freetext
+Free Text:YBCG Parking Positions\1:freetext
 Free Text:YBCG Parking Positions\1:freetext
 Free Text:YBCG Parking Positions\10:freetext
+Free Text:YBCG Parking Positions\10:freetext
+Free Text:YBCG Parking Positions\10A:freetext
+Free Text:YBCG Parking Positions\10B:freetext
+Free Text:YBCG Parking Positions\10D:freetext
+Free Text:YBCG Parking Positions\10E:freetext
+Free Text:YBCG Parking Positions\10F:freetext
+Free Text:YBCG Parking Positions\10G:freetext
 Free Text:YBCG Parking Positions\10L:freetext
 Free Text:YBCG Parking Positions\10R:freetext
+Free Text:YBCG Parking Positions\11:freetext
+Free Text:YBCG Parking Positions\11A:freetext
+Free Text:YBCG Parking Positions\12:freetext
+Free Text:YBCG Parking Positions\12A:freetext
+Free Text:YBCG Parking Positions\13:freetext
+Free Text:YBCG Parking Positions\13A:freetext
+Free Text:YBCG Parking Positions\14:freetext
+Free Text:YBCG Parking Positions\14A:freetext
+Free Text:YBCG Parking Positions\15:freetext
+Free Text:YBCG Parking Positions\15A:freetext
+Free Text:YBCG Parking Positions\16:freetext
+Free Text:YBCG Parking Positions\17:freetext
+Free Text:YBCG Parking Positions\18:freetext
+Free Text:YBCG Parking Positions\19:freetext
+Free Text:YBCG Parking Positions\1A:freetext
+Free Text:YBCG Parking Positions\1B:freetext
+Free Text:YBCG Parking Positions\1C:freetext
+Free Text:YBCG Parking Positions\1D:freetext
+Free Text:YBCG Parking Positions\1E:freetext
 Free Text:YBCG Parking Positions\1L:freetext
 Free Text:YBCG Parking Positions\1R:freetext
 Free Text:YBCG Parking Positions\2:freetext
+Free Text:YBCG Parking Positions\2:freetext
+Free Text:YBCG Parking Positions\20:freetext
+Free Text:YBCG Parking Positions\21:freetext
+Free Text:YBCG Parking Positions\22:freetext
+Free Text:YBCG Parking Positions\23:freetext
+Free Text:YBCG Parking Positions\2A:freetext
+Free Text:YBCG Parking Positions\2B:freetext
+Free Text:YBCG Parking Positions\3:freetext
 Free Text:YBCG Parking Positions\3:freetext
 Free Text:YBCG Parking Positions\30:freetext
 Free Text:YBCG Parking Positions\30L:freetext
 Free Text:YBCG Parking Positions\30R:freetext
+Free Text:YBCG Parking Positions\3A:freetext
+Free Text:YBCG Parking Positions\3B:freetext
 Free Text:YBCG Parking Positions\3L:freetext
 Free Text:YBCG Parking Positions\3R:freetext
 Free Text:YBCG Parking Positions\4:freetext
+Free Text:YBCG Parking Positions\4:freetext
+Free Text:YBCG Parking Positions\4A:freetext
+Free Text:YBCG Parking Positions\4B:freetext
 Free Text:YBCG Parking Positions\4L:freetext
 Free Text:YBCG Parking Positions\4R:freetext
 Free Text:YBCG Parking Positions\5:freetext
+Free Text:YBCG Parking Positions\5:freetext
+Free Text:YBCG Parking Positions\5A:freetext
+Free Text:YBCG Parking Positions\5B:freetext
 Free Text:YBCG Parking Positions\5L:freetext
 Free Text:YBCG Parking Positions\5R:freetext
 Free Text:YBCG Parking Positions\6:freetext
+Free Text:YBCG Parking Positions\6:freetext
+Free Text:YBCG Parking Positions\6A:freetext
+Free Text:YBCG Parking Positions\6B:freetext
 Free Text:YBCG Parking Positions\6L:freetext
 Free Text:YBCG Parking Positions\6R:freetext
 Free Text:YBCG Parking Positions\7:freetext
+Free Text:YBCG Parking Positions\7:freetext
+Free Text:YBCG Parking Positions\7B:freetext
 Free Text:YBCG Parking Positions\7L:freetext
 Free Text:YBCG Parking Positions\7R:freetext
 Free Text:YBCG Parking Positions\8:freetext
+Free Text:YBCG Parking Positions\8:freetext
+Free Text:YBCG Parking Positions\8A:freetext
+Free Text:YBCG Parking Positions\8B:freetext
 Free Text:YBCG Parking Positions\8L:freetext
 Free Text:YBCG Parking Positions\8R:freetext
 Free Text:YBCG Parking Positions\9:freetext
+Free Text:YBCG Parking Positions\9:freetext
+Free Text:YBCG Parking Positions\9A:freetext
+Free Text:YBCG Parking Positions\9B:freetext
 Free Text:YBCG Parking Positions\9L:freetext
 Free Text:YBCG Parking Positions\9R:freetext
+Free Text:YBCG Parking Positions\GA 1:freetext
+Free Text:YBCG Parking Positions\GA 2:freetext
+Free Text:YBCG Parking Positions\GA 3:freetext
 Free Text:YSSY Grounddesignators\A  :freetext
 Free Text:YSSY Grounddesignators\A  :freetext
 Free Text:YSSY Grounddesignators\A  :freetext
@@ -888,6 +982,8 @@ Free Text:YSSY Parking Positions\F9:freetext
 Geo:GEO:
 Geo:YBBN Taxiway:
 Geo:YBCG Taxiway:
+Geo:YBCS Stand:
+Geo:YBCS Taxiway:
 Regions:Apron:polygon
 Regions:Background:polygon
 Regions:Building:polygon
@@ -899,6 +995,10 @@ Regions:YBCG Apron:polygon
 Regions:YBCG Background:polygon
 Regions:YBCG Building:polygon
 Regions:YBCG Grass:polygon
+Regions:YBCS Apron:polygon
+Regions:YBCS Background:polygon
+Regions:YBCS Building:polygon
+Regions:YBCS Grass:polygon
 Regions:YSSN Apron:polygon
 Regions:YSSN Building:polygon
 Runways:YBBN Brisbane 01L-19R:centerline
@@ -965,6 +1065,22 @@ Runways:YBCG Gold Coast 17-35:extended centerline 2 right base
 Runways:YBCG Gold Coast 17-35:extended centerline 2 right ticks
 Runways:YBCG Gold Coast 17-35:extended centerline 2 right vectoring
 Runways:YBCG Gold Coast 17-35:name
+Runways:YBCS Cairns 15-33:centerline
+Runways:YBCS Cairns 15-33:extended centerline 1
+Runways:YBCS Cairns 15-33:extended centerline 1 left base
+Runways:YBCS Cairns 15-33:extended centerline 1 left ticks
+Runways:YBCS Cairns 15-33:extended centerline 1 left vectoring
+Runways:YBCS Cairns 15-33:extended centerline 1 right base
+Runways:YBCS Cairns 15-33:extended centerline 1 right ticks
+Runways:YBCS Cairns 15-33:extended centerline 1 right vectoring
+Runways:YBCS Cairns 15-33:extended centerline 2
+Runways:YBCS Cairns 15-33:extended centerline 2 left base
+Runways:YBCS Cairns 15-33:extended centerline 2 left ticks
+Runways:YBCS Cairns 15-33:extended centerline 2 left vectoring
+Runways:YBCS Cairns 15-33:extended centerline 2 right base
+Runways:YBCS Cairns 15-33:extended centerline 2 right ticks
+Runways:YBCS Cairns 15-33:extended centerline 2 right vectoring
+Runways:YBCS Cairns 15-33:name
 Runways:YSSY Sydney 07-25:centerline
 Runways:YSSY Sydney 07-25:extended centerline 1
 Runways:YSSY Sydney 07-25:extended centerline 1 left base
@@ -1013,11 +1129,6 @@ Runways:YSSY Sydney 16R-34L:extended centerline 2 right base
 Runways:YSSY Sydney 16R-34L:extended centerline 2 right ticks
 Runways:YSSY Sydney 16R-34L:extended centerline 2 right vectoring
 Runways:YSSY Sydney 16R-34L:name
-VORs:ARG:symbol
-VORs:CFS:symbol
-VORs:CIN:symbol
-VORs:GLA:symbol
-VORs:TNK:symbol
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -1031,4 +1142,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-46.254722:87.353554:-6.084722:169.408787
+WINDOWAREA:-47.366827:96.415911:-7.196827:178.471144
