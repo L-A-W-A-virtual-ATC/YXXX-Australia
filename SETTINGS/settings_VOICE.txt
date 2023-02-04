@@ -1,3 +1,18 @@
 VOICE
 AG:YBBB CTR Brisbane Center:119.800
+AG:YBBN APP Brisbane Approach:123.500
+AG:YBBN DEL Brisbane Delivery:118.850
+AG:YBBN GND Brisbane Ground:121.700
+AG:YBBN TWR Brisbane Tower:118.000
+AG:YBCG APP Gold Coast Approach:123.500
+AG:YBCG GND Gold Coast Ground:121.800
+AG:YBCG TWR Gold Coast Tower:118.700
+AG:YBCS APP Cairns Approach:118.400
+AG:YBCS DEL Cairns Delivery:128.750
+AG:YBCS GND Cairns Ground:121.700
+AG:YBCS TWR Cairns Tower:124.900
+AG:YSSY APP Sidney Approach:124.400
+AG:YSSY DEL Sidney Delivery:133.800
+AG:YSSY GND Sidney Ground:121.700
+AG:YSSY TWR Sidney Tower:120.500
 END

@@ -335,6 +335,7 @@ ARTCC boundary:YBBB_OST:
 ARTCC boundary:YBBB_WEST:
 ARTCC high boundary:AoR CTR YBBB:
 ARTCC low boundary:Tower CTR YBBN:
+Free Text:Default group\YBCG Parking Positions:freetext
 Free Text:YBBN Grounddesignators\A			:freetext
 Free Text:YBBN Grounddesignators\A			:freetext
 Free Text:YBBN Grounddesignators\A			:freetext
@@ -657,7 +658,6 @@ Free Text:YBCG Grounddesignators\G:freetext
 Free Text:YBCG Grounddesignators\H:freetext
 Free Text:YBCG Grounddesignators\K:freetext
 Free Text:YBCG Grounddesignators\Y:freetext
-Free Text:YBCG Parking Positions:freetext
 Free Text:YBCG Parking Positions\1:freetext
 Free Text:YBCG Parking Positions\1:freetext
 Free Text:YBCG Parking Positions\10:freetext
