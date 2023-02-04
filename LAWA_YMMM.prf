@@ -1,0 +1,67 @@
+LastSession	connecttype	0
+LastSession	rating	6
+LastSession	server	92.205.131.19
+LastSession	tovatsim	0
+LastSession	range	600
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Settings	alias	\..\Aliases.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	SettingsfileSIL	\..\COMMON\SETTINGS\settings_SIL.txt
+Settings	SettingsfileSEL	\..\COMMON\SETTINGS\settings_SEL.txt
+Settings	SettingsfileDEP	\..\COMMON\SETTINGS\settings_DEP.txt
+Settings	SettingsfileARR	\..\COMMON\SETTINGS\settings_ARR.txt
+Settings	SettingsfileFP	\..\COMMON\SETTINGS\settings_FP.txt
+Settings	SettingsfileCONFLICT	\..\COMMON\SETTINGS\settings_COL.txt
+Settings	SettingsfilePILOTING	\..\COMMON\SETTINGS\settings_PIL.txt
+Settings	SettingsfileORIGPLANE	\..\COMMON\SETTINGS\settings_OPL.txt
+Settings	SettingsfileSTUP	\..\COMMON\SETTINGS\settings_STU.txt
+Settings	SettingsfileTAXIOUT	\..\COMMON\SETTINGS\settings_TXO.txt
+Settings	SettingsfileTAKEOFF	\..\COMMON\SETTINGS\settings_TO.txt
+Settings	SettingsfileADCS	\..\COMMON\SETTINGS\settings_ADC.txt
+Settings	SettingsfileTAXIIN	\..\COMMON\SETTINGS\settings_TXI.txt
+Settings	SettingsfileSYMBOLOGY	\..\COMMON\SETTINGS\settings_SYM.txt
+Settings	SettingsfileTAGS	\..\COMMON\SETTINGS\settings_TAG.txt
+Settings	SettingsfilePLUGINS	\..\COMMON\SETTINGS\settings_PLUGIN.txt
+Settings	Settingsfile	\..\COMMON\SETTINGS\settings_GENERAL.txt
+Settings	SettingsfileSCREEN	\..\COMMON\SETTINGS\settings_SCREEN.txt
+Settings	SettingsfileVOICE	\SETTINGS\settings_VOICE.txt
+Settings	SettingsfilePROFILE	\SETTINGS\settings_LOGIN.txt
+Settings	SettingsfileVCCS	\SETTINGS\settings_VCCS.txt
+Settings	airlines	\ICAO\ICAO_Airlines.txt
+Settings	airports	\ICAO\ICAO_Airports.txt
+Settings	aircraft	\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\NavData\icao.txt
+Settings	airways	\NavData\airway.txt
+TeamSpeakVccs	PlaybackMode	Windows Audio Session
+TeamSpeakVccs	CaptureMode	Windows Audio Session
+TeamSpeakVccs	Ts3DialogLeft	282
+TeamSpeakVccs	Ts3DialogTop	251
+TeamSpeakVccs	Ts3DialogRight	1242
+TeamSpeakVccs	Ts3DialogBottom	860
+Plugins	Plugin0	\..\COMMON\PLUGINS\vSMR\vSMR.dll
+Plugins	Plugin0Display0	SMR radar display
+Sounds	Sound0	C:\Program Files (x86)\EuroScope\Sounds\handoff_request.wav
+Sounds	Sound1	C:\Program Files (x86)\EuroScope\Sounds\handoff_accept.wav
+Sounds	Sound2	C:\Program Files (x86)\EuroScope\Sounds\conflict_alert.wav
+Sounds	Sound3	C:\Program Files (x86)\EuroScope\Sounds\radio_message.wav
+Sounds	Sound4	C:\Program Files (x86)\EuroScope\Sounds\atc_message.wav
+Sounds	Sound5	C:\Program Files (x86)\EuroScope\Sounds\atc_message.wav
+Sounds	Sound6	C:\Program Files (x86)\EuroScope\Sounds\broadcast_message.wav
+Sounds	Sound7	C:\Program Files (x86)\EuroScope\Sounds\landline_request.wav
+Sounds	Sound8	C:\Program Files (x86)\EuroScope\Sounds\supervisor_message.wav
+Sounds	Sound9	C:\Program Files (x86)\EuroScope\Sounds\connected.wav
+Sounds	Sound10	C:\Program Files (x86)\EuroScope\Sounds\disconnected.wav
+Sounds	Sound11	C:\Program Files (x86)\EuroScope\Sounds\ongoing_request.wav
+Sounds	Sound12	C:\Program Files (x86)\EuroScope\Sounds\ongoing_accepted.wav
+Sounds	Sound13	C:\Program Files (x86)\EuroScope\Sounds\ongoing_refused.wav
+Sounds	Sound14	C:\Program Files (x86)\EuroScope\Sounds\ongoing_manual.wav
+Sounds	Sound15	C:\Program Files (x86)\EuroScope\Sounds\new_atis.wav
+Sounds	Sound16	C:\Program Files (x86)\EuroScope\Sounds\handoff_refused.wav
+Sounds	Sound17	C:\Program Files (x86)\EuroScope\Sounds\pointout.wav
+Sounds	Sound18	\..\COMMON\SOUNDS\airplane-fly-over-02a.wav
+Settings	sector	\YMMM.sct
+RecentFiles	Recent1	\ASR\YMMM_CTR.asr
+LastSession	callsign	YMMM_CTR
+LastSession	facility	6
