@@ -1,6 +1,37 @@
 [POSITIONS]
 
+BN-TSN_FSS:Brisbane Radio:124.650:TSN:O:BN-TSN:FSS:-:-:-:-
+BN-COL_FSS:Brisbane Radio:133.150:COL:O:BN-COL:FSS:-:-:-:-
+BN-FLD_FSS:Brisbane Radio:132.850:FLD:O:BN-FLD:FSS:-:-:-:-
+BN-HWE_FSS:Brisbane Radio:124.950:HWE:O:BN-HWE:FSS:-:-:-:-
+BN-INS_FSS:Brisbane Radio:129.250:INS:O:BN-INS:FSS:-:-:-:-
+ML-ASP_CTR:Melbourne Control (Alice Springs):128.850:ASP:O:ML-ASP::::
+ML-ASW_CTR:Melbourne Control (Alice Springs West):131.800:ASW:O:ML-ASW::::
+ML-AUG_CTR:Melbourne Control (Augusta):127.050:AUG:O:ML-AUG::::
+ML-BLA_CTR:Melbourne Control (Benalla):132.200:BLA:O:ML-BLA::::
+ML-BIK_CTR:Melbourne Control (Bindook):129.800:BIK:O:ML-BIK::::
+ML-BKE_CTR:Melbourne Control (Bourke):128.200:BKE:O:ML-BKE::::
+ML-CRS_CTR:Melbourne Control (Cross):135.800:CRS:O:ML-CRS::::
+ML-ELW_CTR:Melbourne Control (Eildon Weir):123.750:ELW:O:ML-ELW::::
+ML-ESP_CTR:Melbourne Control (Esperance):123.950:ESP:O:ML-ESP::::
+ML-FOR_CTR:Melbourne Control (Forest):132.700:FOR:O:ML-FOR::::
+ML-GEL_CTR:Melbourne Control (Geraldton):134.200:GEL:O:ML-GEL::::
+ML-GTH_CTR:Melbourne Control (Griffith):122.750:GTH:O:ML-GTH::::
+ML-GVE_CTR:Melbourne Control (Grove):133.800:GVE:O:ML-GVE::::
+ML-GUN_CTR:Melbourne Control (Gundagai):128.400:GUN:O:ML-GUN::::
+ML-HUO_CTR:Melbourne Control (Huon):122.600:HUO:O:ML-HUO::::
+ML-HYD_CTR:Melbourne Control (Hyden):118.200:HYD:O:ML-HYD::::
+ML-JAR_CTR:Melbourne Control (Jarrah):120.300:JAR:O:ML-JAR::::
+ML-KAT_CTR:Melbourne Control (Katoomba):133.500:KAT:O:ML-KAT::::
+ML-LEA_CTR:Melbourne Control (Leeman):122.400:LEA:O:ML-LEA::::
+ML-MEK_CTR:Melbourne Control (Meekatharra):132.000:MEK:O:ML-MEK::::
+ML-MZI_CTR:Melbourne Control (Menzies):134.300:MZI:O:ML-MZI::::
+ML-MTK_CTR:Melbourne Control (Mount):133.700:MTK:O:ML-MTK::::
+ML-MUN_CTR:Melbourne Control (Mungo):132.600:MUN:O:ML-MUN::::
 
+
+ML-IND_FSS:Melbourne Radio (Indian):122.400:ID:O:ML-IND:FSS::::
+ML-INE_FSS:Melbourne Radio (Indian East):123.650:IE:O:ML-INE:FSS::::
 
 
 
