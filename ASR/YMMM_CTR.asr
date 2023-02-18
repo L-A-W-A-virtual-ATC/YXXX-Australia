@@ -1008,6 +1008,8 @@ Free Text:YPWR Grounddesignators\C:freetext
 Free Text:YPWR Grounddesignators\D:freetext
 Geo:GEO:
 Geo:YESP Taxiway:
+Geo:YFRT Stand:
+Geo:YFRT Taxiway:
 Geo:YMML Stand:
 Geo:YMML Taxiway:
 Geo:YMRA Taxiway:
@@ -1030,6 +1032,11 @@ Regions:YESP Background:polygon
 Regions:YESP Building:polygon
 Regions:YESP Road:polygon
 Regions:YESP Runway:polygon
+Regions:YFRT Apron:polygon
+Regions:YFRT Background:polygon
+Regions:YFRT Building:polygon
+Regions:YFRT Runway:polygon
+Regions:YFRT Taxiway:polygon
 Regions:YMML Apron:polygon
 Regions:YMML Apron:polygon
 Regions:YMML Background:polygon
@@ -1099,6 +1106,38 @@ Runways:YESP Esperance 11-29:extended centerline 2 right base
 Runways:YESP Esperance 11-29:extended centerline 2 right ticks
 Runways:YESP Esperance 11-29:extended centerline 2 right vectoring
 Runways:YESP Esperance 11-29:name
+Runways:YFRT Forrest 09-27:centerline
+Runways:YFRT Forrest 09-27:extended centerline 1
+Runways:YFRT Forrest 09-27:extended centerline 1 left base
+Runways:YFRT Forrest 09-27:extended centerline 1 left ticks
+Runways:YFRT Forrest 09-27:extended centerline 1 left vectoring
+Runways:YFRT Forrest 09-27:extended centerline 1 right base
+Runways:YFRT Forrest 09-27:extended centerline 1 right ticks
+Runways:YFRT Forrest 09-27:extended centerline 1 right vectoring
+Runways:YFRT Forrest 09-27:extended centerline 2
+Runways:YFRT Forrest 09-27:extended centerline 2 left base
+Runways:YFRT Forrest 09-27:extended centerline 2 left ticks
+Runways:YFRT Forrest 09-27:extended centerline 2 left vectoring
+Runways:YFRT Forrest 09-27:extended centerline 2 right base
+Runways:YFRT Forrest 09-27:extended centerline 2 right ticks
+Runways:YFRT Forrest 09-27:extended centerline 2 right vectoring
+Runways:YFRT Forrest 09-27:name
+Runways:YFRT Forrest 18-36:centerline
+Runways:YFRT Forrest 18-36:extended centerline 1
+Runways:YFRT Forrest 18-36:extended centerline 1 left base
+Runways:YFRT Forrest 18-36:extended centerline 1 left ticks
+Runways:YFRT Forrest 18-36:extended centerline 1 left vectoring
+Runways:YFRT Forrest 18-36:extended centerline 1 right base
+Runways:YFRT Forrest 18-36:extended centerline 1 right ticks
+Runways:YFRT Forrest 18-36:extended centerline 1 right vectoring
+Runways:YFRT Forrest 18-36:extended centerline 2
+Runways:YFRT Forrest 18-36:extended centerline 2 left base
+Runways:YFRT Forrest 18-36:extended centerline 2 left ticks
+Runways:YFRT Forrest 18-36:extended centerline 2 left vectoring
+Runways:YFRT Forrest 18-36:extended centerline 2 right base
+Runways:YFRT Forrest 18-36:extended centerline 2 right ticks
+Runways:YFRT Forrest 18-36:extended centerline 2 right vectoring
+Runways:YFRT Forrest 18-36:name
 Runways:YMML Melbourne 09-27:centerline
 Runways:YMML Melbourne 09-27:extended centerline 1
 Runways:YMML Melbourne 09-27:extended centerline 1 left base
@@ -1304,4 +1343,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-47.320981:84.046990:-13.302648:162.307332
+WINDOWAREA:-30.852766:128.084924:-30.825704:128.146928
