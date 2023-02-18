@@ -402,6 +402,45 @@ Airports:YYNG:name
 Airports:YYRM:name
 Airports:YYRN:name
 Airports:YYWG:name
+Free Text:YAYE Grounddesignators\A:freetext
+Free Text:YAYE Grounddesignators\A:freetext
+Free Text:YAYE Grounddesignators\B:freetext
+Free Text:YAYE Grounddesignators\B:freetext
+Free Text:YAYE Grounddesignators\C:freetext
+Free Text:YAYE Grounddesignators\C:freetext
+Free Text:YAYE Grounddesignators\C:freetext
+Free Text:YAYE Grounddesignators\D:freetext
+Free Text:YAYE Grounddesignators\D:freetext
+Free Text:YAYE Grounddesignators\D:freetext
+Free Text:YAYE Grounddesignators\D:freetext
+Free Text:YAYE Grounddesignators\General Aviation:freetext
+Free Text:YAYE Grounddesignators\Helipad:freetext
+Free Text:YAYE Grounddesignators\Terminal:freetext
+Free Text:YAYE Parking Positions\1:freetext
+Free Text:YAYE Parking Positions\2:freetext
+Free Text:YAYE Parking Positions\3:freetext
+Free Text:YAYE Parking Positions\4:freetext
+Free Text:YAYE Parking Positions\5:freetext
+Free Text:YAYE Parking Positions\6:freetext
+Free Text:YAYE Parking Positions\GA:freetext
+Free Text:YAYE Parking Positions\GA:freetext
+Free Text:YAYE Parking Positions\GA:freetext
+Free Text:YAYE Parking Positions\GA:freetext
+Free Text:YAYE Parking Positions\GA:freetext
+Free Text:YAYE Parking Positions\GA:freetext
+Free Text:YAYE Parking Positions\GA:freetext
+Free Text:YAYE Parking Positions\GA:freetext
+Free Text:YAYE Parking Positions\GA:freetext
+Free Text:YAYE Parking Positions\GA:freetext
+Free Text:YAYE Parking Positions\GA:freetext
+Free Text:YAYE Parking Positions\GA:freetext
+Free Text:YAYE Parking Positions\GA:freetext
+Free Text:YAYE Parking Positions\H1:freetext
+Free Text:YAYE Parking Positions\H2:freetext
+Free Text:YAYE Parking Positions\H3:freetext
+Free Text:YAYE Parking Positions\H4:freetext
+Free Text:YAYE Parking Positions\H5:freetext
+Free Text:YAYE Parking Positions\H6:freetext
 Free Text:YBCG Grounddesignators\A:freetext
 Free Text:YBCG Grounddesignators\A:freetext
 Free Text:YBCG Grounddesignators\A:freetext
@@ -664,6 +703,7 @@ Free Text:YMML Parking Positions\G60A:freetext
 Free Text:YMML Parking Positions\H1:freetext
 Free Text:YMML Parking Positions\H2:freetext
 Free Text:YMML Parking Positions\H3:freetext
+Free Text:YNOV Grounddesignators\A:freetext
 Free Text:YPAD Grounddesignators\A2:freetext
 Free Text:YPAD Grounddesignators\A3:freetext
 Free Text:YPAD Grounddesignators\A4:freetext
@@ -1007,22 +1047,33 @@ Free Text:YPWR Grounddesignators\C:freetext
 Free Text:YPWR Grounddesignators\C:freetext
 Free Text:YPWR Grounddesignators\D:freetext
 Geo:GEO:
+Geo:YAYE Stand:
+Geo:YAYE Taxiway:
 Geo:YESP Taxiway:
 Geo:YFRT Stand:
 Geo:YFRT Taxiway:
 Geo:YMML Stand:
 Geo:YMML Taxiway:
 Geo:YMRA Taxiway:
+Geo:YNOV Stand:
+Geo:YNOV Taxiway:
 Geo:YPAD Taxiway:
 Geo:YPPH Taxiway:
 Geo:YPWR closed runway:
 Geo:YPWR Taxiway:
 Geo:YSCB Taxiway:
+Geo:YSCD Stand:
+Geo:YSCD Taxiway:
 Regions:16777215:polygon
 Regions:Background:polygon
 Regions:Building:polygon
 Regions:Grass:polygon
 Regions:Runway:polygon
+Regions:YAYE Apron:polygon
+Regions:YAYE Background:polygon
+Regions:YAYE Building:polygon
+Regions:YAYE Runway:polygon
+Regions:YAYE Taxiways:polygon
 Regions:YCKY Apron:polygon
 Regions:YCKY Background:polygon
 Regions:YCKY Grass:polygon
@@ -1047,6 +1098,11 @@ Regions:YMRA Apron:polygon
 Regions:YMRA Background:polygon
 Regions:YMRA Building:polygon
 Regions:YMRA Runway:polygon
+Regions:YNOV Apron:polygon
+Regions:YNOV Background:polygon
+Regions:YNOV Building:polygon
+Regions:YNOV Runway:polygon
+Regions:YNOV Taxiway:polygon
 Regions:YPPH Apron:polygon
 Regions:YPPH Background:polygon
 Regions:YPPH Building:polygon
@@ -1058,6 +1114,27 @@ Regions:YSCB Apron:polygon
 Regions:YSCB Background:polygon
 Regions:YSCB Building:polygon
 Regions:YSCB Grass:polygon
+Regions:YSCD Apron:polygon
+Regions:YSCD Background:polygon
+Regions:YSCD Building:polygon
+Regions:YSCD Runway:polygon
+Regions:YSCD Taxiway:polygon
+Runways:YAYE Ayers Rock 13-31:centerline
+Runways:YAYE Ayers Rock 13-31:extended centerline 1
+Runways:YAYE Ayers Rock 13-31:extended centerline 1 left base
+Runways:YAYE Ayers Rock 13-31:extended centerline 1 left ticks
+Runways:YAYE Ayers Rock 13-31:extended centerline 1 left vectoring
+Runways:YAYE Ayers Rock 13-31:extended centerline 1 right base
+Runways:YAYE Ayers Rock 13-31:extended centerline 1 right ticks
+Runways:YAYE Ayers Rock 13-31:extended centerline 1 right vectoring
+Runways:YAYE Ayers Rock 13-31:extended centerline 2
+Runways:YAYE Ayers Rock 13-31:extended centerline 2 left base
+Runways:YAYE Ayers Rock 13-31:extended centerline 2 left ticks
+Runways:YAYE Ayers Rock 13-31:extended centerline 2 left vectoring
+Runways:YAYE Ayers Rock 13-31:extended centerline 2 right base
+Runways:YAYE Ayers Rock 13-31:extended centerline 2 right ticks
+Runways:YAYE Ayers Rock 13-31:extended centerline 2 right vectoring
+Runways:YAYE Ayers Rock 13-31:name
 Runways:YCKY Cocklebiddy 05-23:centerline
 Runways:YCKY Cocklebiddy 05-23:extended centerline 1
 Runways:YCKY Cocklebiddy 05-23:extended centerline 1 left base
@@ -1186,6 +1263,22 @@ Runways:YMRA Maralinga 18-36:extended centerline 2 right base
 Runways:YMRA Maralinga 18-36:extended centerline 2 right ticks
 Runways:YMRA Maralinga 18-36:extended centerline 2 right vectoring
 Runways:YMRA Maralinga 18-36:name
+Runways:YNOV Nova Airport 06-24:centerline
+Runways:YNOV Nova Airport 06-24:extended centerline 1
+Runways:YNOV Nova Airport 06-24:extended centerline 1 left base
+Runways:YNOV Nova Airport 06-24:extended centerline 1 left ticks
+Runways:YNOV Nova Airport 06-24:extended centerline 1 left vectoring
+Runways:YNOV Nova Airport 06-24:extended centerline 1 right base
+Runways:YNOV Nova Airport 06-24:extended centerline 1 right ticks
+Runways:YNOV Nova Airport 06-24:extended centerline 1 right vectoring
+Runways:YNOV Nova Airport 06-24:extended centerline 2
+Runways:YNOV Nova Airport 06-24:extended centerline 2 left base
+Runways:YNOV Nova Airport 06-24:extended centerline 2 left ticks
+Runways:YNOV Nova Airport 06-24:extended centerline 2 left vectoring
+Runways:YNOV Nova Airport 06-24:extended centerline 2 right base
+Runways:YNOV Nova Airport 06-24:extended centerline 2 right ticks
+Runways:YNOV Nova Airport 06-24:extended centerline 2 right vectoring
+Runways:YNOV Nova Airport 06-24:name
 Runways:YPPH Perth 03-21:centerline
 Runways:YPPH Perth 03-21:extended centerline 1
 Runways:YPPH Perth 03-21:extended centerline 1 left base
@@ -1282,6 +1375,22 @@ Runways:YSCB Canberra 17-35:extended centerline 2 right base
 Runways:YSCB Canberra 17-35:extended centerline 2 right ticks
 Runways:YSCB Canberra 17-35:extended centerline 2 right vectoring
 Runways:YSCB Canberra 17-35:name
+Runways:YSCD Carosue Dam 06-24:centerline
+Runways:YSCD Carosue Dam 06-24:extended centerline 1
+Runways:YSCD Carosue Dam 06-24:extended centerline 1 left base
+Runways:YSCD Carosue Dam 06-24:extended centerline 1 left ticks
+Runways:YSCD Carosue Dam 06-24:extended centerline 1 left vectoring
+Runways:YSCD Carosue Dam 06-24:extended centerline 1 right base
+Runways:YSCD Carosue Dam 06-24:extended centerline 1 right ticks
+Runways:YSCD Carosue Dam 06-24:extended centerline 1 right vectoring
+Runways:YSCD Carosue Dam 06-24:extended centerline 2
+Runways:YSCD Carosue Dam 06-24:extended centerline 2 left base
+Runways:YSCD Carosue Dam 06-24:extended centerline 2 left ticks
+Runways:YSCD Carosue Dam 06-24:extended centerline 2 left vectoring
+Runways:YSCD Carosue Dam 06-24:extended centerline 2 right base
+Runways:YSCD Carosue Dam 06-24:extended centerline 2 right ticks
+Runways:YSCD Carosue Dam 06-24:extended centerline 2 right vectoring
+Runways:YSCD Carosue Dam 06-24:name
 Runways:YSSY Sydney 07-25:centerline
 Runways:YSSY Sydney 07-25:extended centerline 1
 Runways:YSSY Sydney 07-25:extended centerline 1 left base
@@ -1343,4 +1452,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-30.852766:128.084924:-30.825704:128.146928
+WINDOWAREA:-45.257359:92.028690:-17.931722:154.637344
