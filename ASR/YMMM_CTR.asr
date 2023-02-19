@@ -543,6 +543,15 @@ Free Text:YBCG Parking Positions\8B:freetext
 Free Text:YBCG Parking Positions\9:freetext
 Free Text:YBCG Parking Positions\A:freetext
 Free Text:YBCG Parking Positions\B:freetext
+Free Text:YCAR Grounddesignators\A:freetext
+Free Text:YCAR Grounddesignators\B:freetext
+Free Text:YCAR Grounddesignators\NDB:freetext
+Free Text:YCAR Grounddesignators\VOR/DME:freetext
+Free Text:YCAR Grounddesignators\Windsock:freetext
+Free Text:YCAR Grounddesignators\Windsock:freetext
+Free Text:YCAR Parking Positions\1:freetext
+Free Text:YCAR Parking Positions\2:freetext
+Free Text:YCAR Parking Positions\3:freetext
 Free Text:YMML Grounddesignators\A:freetext
 Free Text:YMML Grounddesignators\A:freetext
 Free Text:YMML Grounddesignators\A:freetext
@@ -703,6 +712,9 @@ Free Text:YMML Parking Positions\G60A:freetext
 Free Text:YMML Parking Positions\H1:freetext
 Free Text:YMML Parking Positions\H2:freetext
 Free Text:YMML Parking Positions\H3:freetext
+Free Text:YMOG Grounddesignators\A:freetext
+Free Text:YMOG Grounddesignators\Terminal:freetext
+Free Text:YMOG Grounddesignators\windsock:freetext
 Free Text:YNOV Grounddesignators\A:freetext
 Free Text:YPAD Grounddesignators\A2:freetext
 Free Text:YPAD Grounddesignators\A3:freetext
@@ -785,6 +797,60 @@ Free Text:YPAD Parking Positions\85:freetext
 Free Text:YPAD Parking Positions\86:freetext
 Free Text:YPAD Parking Positions\87:freetext
 Free Text:YPAD Parking Positions\88:freetext
+Free Text:YPKA Grounddesignators\A:freetext
+Free Text:YPKA Grounddesignators\B:freetext
+Free Text:YPKA Grounddesignators\B:freetext
+Free Text:YPKA Grounddesignators\C:freetext
+Free Text:YPKA Grounddesignators\C:freetext
+Free Text:YPKA Grounddesignators\D:freetext
+Free Text:YPKA Grounddesignators\D:freetext
+Free Text:YPKA Grounddesignators\E:freetext
+Free Text:YPKA Grounddesignators\F:freetext
+Free Text:YPKA Grounddesignators\F:freetext
+Free Text:YPKA Grounddesignators\F:freetext
+Free Text:YPKA Grounddesignators\G:freetext
+Free Text:YPKA Grounddesignators\G:freetext
+Free Text:YPKA Grounddesignators\H:freetext
+Free Text:YPKA Grounddesignators\Helipad:freetext
+Free Text:YPKA Grounddesignators\J:freetext
+Free Text:YPKA Grounddesignators\K:freetext
+Free Text:YPKA Grounddesignators\K:freetext
+Free Text:YPKA Grounddesignators\K:freetext
+Free Text:YPKA Grounddesignators\L:freetext
+Free Text:YPKA Grounddesignators\Terminal:freetext
+Free Text:YPKA Grounddesignators\Windsock:freetext
+Free Text:YPKA Grounddesignators\Windsock:freetext
+Free Text:YPKA Parking Positions\1:freetext
+Free Text:YPKA Parking Positions\15:freetext
+Free Text:YPKA Parking Positions\16:freetext
+Free Text:YPKA Parking Positions\17:freetext
+Free Text:YPKA Parking Positions\18:freetext
+Free Text:YPKA Parking Positions\19:freetext
+Free Text:YPKA Parking Positions\2:freetext
+Free Text:YPKA Parking Positions\20:freetext
+Free Text:YPKA Parking Positions\3:freetext
+Free Text:YPKA Parking Positions\4:freetext
+Free Text:YPKA Parking Positions\5:freetext
+Free Text:YPKA Parking Positions\6:freetext
+Free Text:YPKA Parking Positions\7:freetext
+Free Text:YPKA Parking Positions\8:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
+Free Text:YPKA Parking Positions\GA:freetext
 Free Text:YPPH Grounddesignators\500 Lane:freetext
 Free Text:YPPH Grounddesignators\500 Lane:freetext
 Free Text:YPPH Grounddesignators\600 Lane:freetext
@@ -1049,15 +1115,24 @@ Free Text:YPWR Grounddesignators\D:freetext
 Geo:GEO:
 Geo:YAYE Stand:
 Geo:YAYE Taxiway:
+Geo:YCAR Holdingpositions:
+Geo:YCAR Stand:
+Geo:YCAR Taxiway:
 Geo:YESP Taxiway:
 Geo:YFRT Stand:
 Geo:YFRT Taxiway:
 Geo:YMML Stand:
 Geo:YMML Taxiway:
+Geo:YMOG Holding:
+Geo:YMOG Stand:
+Geo:YMOG Taxiway:
 Geo:YMRA Taxiway:
 Geo:YNOV Stand:
 Geo:YNOV Taxiway:
 Geo:YPAD Taxiway:
+Geo:YPKA Holding Points:
+Geo:YPKA Stand:
+Geo:YPKA Taxiway:
 Geo:YPPH Taxiway:
 Geo:YPWR closed runway:
 Geo:YPWR Taxiway:
@@ -1074,6 +1149,11 @@ Regions:YAYE Background:polygon
 Regions:YAYE Building:polygon
 Regions:YAYE Runway:polygon
 Regions:YAYE Taxiways:polygon
+Regions:YCAR Apron:polygon
+Regions:YCAR Background:polygon
+Regions:YCAR Building:polygon
+Regions:YCAR Runway:polygon
+Regions:YCAR Taxiways:polygon
 Regions:YCKY Apron:polygon
 Regions:YCKY Background:polygon
 Regions:YCKY Grass:polygon
@@ -1094,6 +1174,11 @@ Regions:YMML Background:polygon
 Regions:YMML Building:polygon
 Regions:YMML Grass:polygon
 Regions:YMML Runway:polygon
+Regions:YMOG Apron:polygon
+Regions:YMOG Background:polygon
+Regions:YMOG Building:polygon
+Regions:YMOG Runway:polygon
+Regions:YMOG Taxiway:polygon
 Regions:YMRA Apron:polygon
 Regions:YMRA Background:polygon
 Regions:YMRA Building:polygon
@@ -1103,6 +1188,12 @@ Regions:YNOV Background:polygon
 Regions:YNOV Building:polygon
 Regions:YNOV Runway:polygon
 Regions:YNOV Taxiway:polygon
+Regions:YPKA Apron:polygon
+Regions:YPKA Background:polygon
+Regions:YPKA Building:polygon
+Regions:YPKA Helipad:polygon
+Regions:YPKA Road:polygon
+Regions:YPKA Runway:polygon
 Regions:YPPH Apron:polygon
 Regions:YPPH Background:polygon
 Regions:YPPH Building:polygon
@@ -1135,6 +1226,38 @@ Runways:YAYE Ayers Rock 13-31:extended centerline 2 right base
 Runways:YAYE Ayers Rock 13-31:extended centerline 2 right ticks
 Runways:YAYE Ayers Rock 13-31:extended centerline 2 right vectoring
 Runways:YAYE Ayers Rock 13-31:name
+Runways:YCAR Carnarvon 04-22:centerline
+Runways:YCAR Carnarvon 04-22:extended centerline 1
+Runways:YCAR Carnarvon 04-22:extended centerline 1 left base
+Runways:YCAR Carnarvon 04-22:extended centerline 1 left ticks
+Runways:YCAR Carnarvon 04-22:extended centerline 1 left vectoring
+Runways:YCAR Carnarvon 04-22:extended centerline 1 right base
+Runways:YCAR Carnarvon 04-22:extended centerline 1 right ticks
+Runways:YCAR Carnarvon 04-22:extended centerline 1 right vectoring
+Runways:YCAR Carnarvon 04-22:extended centerline 2
+Runways:YCAR Carnarvon 04-22:extended centerline 2 left base
+Runways:YCAR Carnarvon 04-22:extended centerline 2 left ticks
+Runways:YCAR Carnarvon 04-22:extended centerline 2 left vectoring
+Runways:YCAR Carnarvon 04-22:extended centerline 2 right base
+Runways:YCAR Carnarvon 04-22:extended centerline 2 right ticks
+Runways:YCAR Carnarvon 04-22:extended centerline 2 right vectoring
+Runways:YCAR Carnarvon 04-22:name
+Runways:YCAR Carnarvon 18-36:centerline
+Runways:YCAR Carnarvon 18-36:extended centerline 1
+Runways:YCAR Carnarvon 18-36:extended centerline 1 left base
+Runways:YCAR Carnarvon 18-36:extended centerline 1 left ticks
+Runways:YCAR Carnarvon 18-36:extended centerline 1 left vectoring
+Runways:YCAR Carnarvon 18-36:extended centerline 1 right base
+Runways:YCAR Carnarvon 18-36:extended centerline 1 right ticks
+Runways:YCAR Carnarvon 18-36:extended centerline 1 right vectoring
+Runways:YCAR Carnarvon 18-36:extended centerline 2
+Runways:YCAR Carnarvon 18-36:extended centerline 2 left base
+Runways:YCAR Carnarvon 18-36:extended centerline 2 left ticks
+Runways:YCAR Carnarvon 18-36:extended centerline 2 left vectoring
+Runways:YCAR Carnarvon 18-36:extended centerline 2 right base
+Runways:YCAR Carnarvon 18-36:extended centerline 2 right ticks
+Runways:YCAR Carnarvon 18-36:extended centerline 2 right vectoring
+Runways:YCAR Carnarvon 18-36:name
 Runways:YCKY Cocklebiddy 05-23:centerline
 Runways:YCKY Cocklebiddy 05-23:extended centerline 1
 Runways:YCKY Cocklebiddy 05-23:extended centerline 1 left base
@@ -1247,6 +1370,38 @@ Runways:YMML Melbourne 16-34:extended centerline 2 right base
 Runways:YMML Melbourne 16-34:extended centerline 2 right ticks
 Runways:YMML Melbourne 16-34:extended centerline 2 right vectoring
 Runways:YMML Melbourne 16-34:name
+Runways:YMOG Mount Magnet 04-22:centerline
+Runways:YMOG Mount Magnet 04-22:extended centerline 1
+Runways:YMOG Mount Magnet 04-22:extended centerline 1 left base
+Runways:YMOG Mount Magnet 04-22:extended centerline 1 left ticks
+Runways:YMOG Mount Magnet 04-22:extended centerline 1 left vectoring
+Runways:YMOG Mount Magnet 04-22:extended centerline 1 right base
+Runways:YMOG Mount Magnet 04-22:extended centerline 1 right ticks
+Runways:YMOG Mount Magnet 04-22:extended centerline 1 right vectoring
+Runways:YMOG Mount Magnet 04-22:extended centerline 2
+Runways:YMOG Mount Magnet 04-22:extended centerline 2 left base
+Runways:YMOG Mount Magnet 04-22:extended centerline 2 left ticks
+Runways:YMOG Mount Magnet 04-22:extended centerline 2 left vectoring
+Runways:YMOG Mount Magnet 04-22:extended centerline 2 right base
+Runways:YMOG Mount Magnet 04-22:extended centerline 2 right ticks
+Runways:YMOG Mount Magnet 04-22:extended centerline 2 right vectoring
+Runways:YMOG Mount Magnet 04-22:name
+Runways:YMOG Mount Magnet 16-34:centerline
+Runways:YMOG Mount Magnet 16-34:extended centerline 1
+Runways:YMOG Mount Magnet 16-34:extended centerline 1 left base
+Runways:YMOG Mount Magnet 16-34:extended centerline 1 left ticks
+Runways:YMOG Mount Magnet 16-34:extended centerline 1 left vectoring
+Runways:YMOG Mount Magnet 16-34:extended centerline 1 right base
+Runways:YMOG Mount Magnet 16-34:extended centerline 1 right ticks
+Runways:YMOG Mount Magnet 16-34:extended centerline 1 right vectoring
+Runways:YMOG Mount Magnet 16-34:extended centerline 2
+Runways:YMOG Mount Magnet 16-34:extended centerline 2 left base
+Runways:YMOG Mount Magnet 16-34:extended centerline 2 left ticks
+Runways:YMOG Mount Magnet 16-34:extended centerline 2 left vectoring
+Runways:YMOG Mount Magnet 16-34:extended centerline 2 right base
+Runways:YMOG Mount Magnet 16-34:extended centerline 2 right ticks
+Runways:YMOG Mount Magnet 16-34:extended centerline 2 right vectoring
+Runways:YMOG Mount Magnet 16-34:name
 Runways:YMRA Maralinga 18-36:centerline
 Runways:YMRA Maralinga 18-36:extended centerline 1
 Runways:YMRA Maralinga 18-36:extended centerline 1 left base
@@ -1279,6 +1434,22 @@ Runways:YNOV Nova Airport 06-24:extended centerline 2 right base
 Runways:YNOV Nova Airport 06-24:extended centerline 2 right ticks
 Runways:YNOV Nova Airport 06-24:extended centerline 2 right vectoring
 Runways:YNOV Nova Airport 06-24:name
+Runways:YPKA Karratha 08-26:centerline
+Runways:YPKA Karratha 08-26:extended centerline 1
+Runways:YPKA Karratha 08-26:extended centerline 1 left base
+Runways:YPKA Karratha 08-26:extended centerline 1 left ticks
+Runways:YPKA Karratha 08-26:extended centerline 1 left vectoring
+Runways:YPKA Karratha 08-26:extended centerline 1 right base
+Runways:YPKA Karratha 08-26:extended centerline 1 right ticks
+Runways:YPKA Karratha 08-26:extended centerline 1 right vectoring
+Runways:YPKA Karratha 08-26:extended centerline 2
+Runways:YPKA Karratha 08-26:extended centerline 2 left base
+Runways:YPKA Karratha 08-26:extended centerline 2 left ticks
+Runways:YPKA Karratha 08-26:extended centerline 2 left vectoring
+Runways:YPKA Karratha 08-26:extended centerline 2 right base
+Runways:YPKA Karratha 08-26:extended centerline 2 right ticks
+Runways:YPKA Karratha 08-26:extended centerline 2 right vectoring
+Runways:YPKA Karratha 08-26:name
 Runways:YPPH Perth 03-21:centerline
 Runways:YPPH Perth 03-21:extended centerline 1
 Runways:YPPH Perth 03-21:extended centerline 1 left base
@@ -1452,4 +1623,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:-45.257359:92.028690:-17.931722:154.637344
+WINDOWAREA:-45.252354:91.668073:-17.926717:154.276727
